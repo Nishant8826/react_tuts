@@ -1,4 +1,4 @@
 # React Learning
 
-## branch 01-counter
-### useState
+## Counter
+### how to change varibls using useStatue hook
